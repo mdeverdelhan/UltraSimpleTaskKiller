@@ -1,0 +1,21 @@
+# Ultra Simple Task Killer
+
+_Ultra Simple Task Killer_ is an Android WIDGET that does only one thing but does it well.
+
+US Task Killer kills all unwanted processes and saves your battery IN ONE CLICK. For greater stability, some "system" processes  (system, acore, phone, ...) are not killed.
+
+Features:
+* Kills all unwanted processes on your phone
+* Locales : english, french, german, spanish, italian
+* Need to be running Android 1.5 or later
+
+---
+
+_Ultra Simple Task Killer_ est un WIDGET Android qui ne fait qu'une seule chose mais la fait bien.
+
+En UN SEUL CLIC, tuez tous les processus indésirables et économisez votre batterie grâce à US Task Killer. Pour plus de stabilité les processus "système" (system, acore, phone, ...) ne sont pas tués.
+
+Fonctionnalités :
+* Tue les processus indésirables du smartphone
+* Langues : anglais, français, allemant=d, espagnol, italien
+* Nécessite Android 1.5 ou supérieur
