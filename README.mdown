@@ -19,5 +19,5 @@ En UN SEUL CLIC, tuez tous les processus indésirables et économisez votre batt
 
 ### Fonctionnalités
 * Tue les processus indésirables du smartphone
-* Langues : anglais, français, allemant=d, espagnol, italien
+* Langues : anglais, français, allemand, espagnol, italien
 * Nécessite Android 1.5 ou supérieur
